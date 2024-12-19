@@ -1,0 +1,24 @@
+課程資料
+https://drive.google.com/drive/folders/1JGZMheKWwA5WuZs6g2GvcO1_neTHjTr7
+----------------------------------------------
+PY 第二階段延續第一階段基礎語法
+
+1.認識Machine Learning
+
+你是一個機器學習專家 請協助我使用python撰寫一個程式碼 訓練以下數據 進行判斷使否有糖尿病(Diabetic)
+Pregnancies	PlasmaGlucose	DiastolicBloodPressure	TricepsThickness	SerumInsulin	BMI	DiabetesPedigree	Age	Diabetic
+0	171	80	34	23	43.50972593	1.213191354	21	0
+8	92	93	47	36	21.24057571	0.158364981	23	0
+7	115	47	52	35	41.51152348	0.079018568	23	0
+9	103	78	25	304	29.58219193	1.282869847	43	1
+1	85	59	27	35	42.60453585	0.549541871	22	0
+0	82	92	9	253	19.72416021	0.103424498	26	0
+0	133	47	19	227	21.94135672	0.174159779	21	0
+
+2.使用到colab (Google Free + GPU)
+
+
+3.安裝到本地端Python(次要 除非要跑Streamfit套件網頁程式碼)
+
+list comprehension
+
